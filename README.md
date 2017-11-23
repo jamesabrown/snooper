@@ -4,6 +4,7 @@ Snooper is an app that allows for quick searching across a large number of serve
 
 # Usage
 
+```
 NAME:
    snooper - Snooper is ready to run
 
@@ -27,3 +28,4 @@ GLOBAL OPTIONS:
    --concurrency value  Number of concurrent requests (default: 10)
    --help, -h           show help
    --version, -v        print the version
+```
